@@ -1,2 +1,3 @@
-# Servidor-Minecraft
-Servidor para minecraft 
+# Senas Para estudar programação e trabalho
+
+Material de trabalho e de estudar
